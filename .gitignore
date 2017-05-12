@@ -1,0 +1,2 @@
+#make sure to run `git rm --cached *.class` after you add this file
+*.class
